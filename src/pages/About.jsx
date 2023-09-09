@@ -1,7 +1,6 @@
 import transition from "../components/Effects/Transition";
 import photo from "../../public/Images/decoration/backgrounds/photo.webp";
 import { isMobile } from "react-device-detect";
-import React, { useEffect, useRef } from "react";
 import { useImageLoad } from "../hooks/useImageLoad";
 
 const About = () => {
