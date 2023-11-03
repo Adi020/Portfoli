@@ -61,7 +61,7 @@ const Projects = () => {
 
       <div className="z-10 flex w-[100%] max-w-[1700px] sm:w-[80%] max-[1740px]:mr-[5%]  max-[640px]:pl-[5%] justify-start">
         <h3 className=" text-gray-400 text-6xl font-semibold pb-4 typing-animation max-[400px]:text-5xl max-[350px]:text-[43px] font-FontTitle">
-          My projects
+          All projects
         </h3>
       </div>
 
