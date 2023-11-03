@@ -7,7 +7,7 @@ const About = () => {
   const { imgRef, handleImageLoad } = useImageLoad();
 
   return (
-    <section className="px-[5%] text-white flex flex-wrap justify-center mx-auto items-center max-[640px]:pt-[110px] pt-28 gap-12 max-w-[2000px]">
+    <section className="px-[5%] text-white flex flex-wrap justify-center mx-auto items-center max-[640px]:pt-[110px] pb-10 pt-28 gap-12 max-w-[2000px]">
       <section className="z-10 w-full flex justify-center flex-col items-center">
         <article
           className={`${
